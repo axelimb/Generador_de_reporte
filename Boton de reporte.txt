@@ -1,0 +1,2 @@
+<a class="btn btn-primary" href="pluguin/funcion.php?id=<?php echo $Page->id_expediente->getViewValue(); ?>">Reporte</a>
+
